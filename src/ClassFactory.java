@@ -5,4 +5,7 @@ public class ClassFactory {
         System.out.println("Second Line");
         System.out.println("Third Line");
     }
+    public static void method(){
+        //bla bla bla
+    }
 }
