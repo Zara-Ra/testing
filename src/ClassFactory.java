@@ -3,5 +3,6 @@ public class ClassFactory {
         System.out.println("Something in master Branch");
         System.out.println("First line");
         System.out.println("Second Line");
+        System.out.println("Third Line");
     }
 }
